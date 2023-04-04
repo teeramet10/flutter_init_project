@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Primary Gradient palette-->
+    <color name="red">#E31D29</color>
+
+    <!--Secondary palette-->
+    <color name="secondary">#FA375B</color>
+
+    <!--Primary palette-->
+    <color name="primary">#FA375B</color>
+    <color name="primaryLight">#50FA375B</color>
+
+    <!--Neutral palette-->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="shadow">#15000000</color>
+    <color name="divider">#FF808080</color>
+
+    <color name="hint">#FF808080</color>
+</resources>
