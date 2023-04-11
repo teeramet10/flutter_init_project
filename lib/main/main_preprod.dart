@@ -1,8 +1,8 @@
 import 'package:flutter_flavor/flutter_flavor.dart';
-import 'package:example_project/app/app.dart';
-import 'package:example_project/constant/env_constant.dart';
-import 'package:example_project/main/run_app.dart';
 
+import 'package:logbook/src/run_app.dart';
+import 'package:logbook/src/app/app.dart';
+import 'package:logbook/src/constant/env_constant.dart';
 
 //prod with dev env
 void main() {

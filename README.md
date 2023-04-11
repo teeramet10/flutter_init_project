@@ -1,4 +1,4 @@
-# example_project
+# logbook
 
 A new Flutter project.
 
